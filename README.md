@@ -1,3 +1,4 @@
-# NLW4--Moveit-Nextjs-
+<h1 align="center"> Moveit NLW4 🚀 
+<p>Projeto desenvolvido em React (Nextjs) durante o evento NWL4</p>
 
-<h1 align="center"> Moveit NLW4 🚀 (Nextjs)
+<h2>O que foi desenvolvido?<h2>
