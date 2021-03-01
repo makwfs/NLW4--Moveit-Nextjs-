@@ -18,7 +18,8 @@ toda vez que o usuário completa as quests.</p>
 <h2>👨‍🏫 Demonstração da aplicação</h2>
 //fazer um gif
 
-Você pode visualizar o projeto atráves do deste link: https://moveit-snowy-omega.vercel.app/
+Você pode visualizar o projeto atráves do deste link:<br>
+ https://moveit-snowy-omega.vercel.app/
 
 <h2>⚙️ Tecnologias e ferramentas utilizadas: </h2>
 
@@ -39,7 +40,7 @@ Você pode visualizar o projeto atráves do deste link: https://moveit-snowy-ome
 <p>1. Clone esse repositório<br>
 2. Abra o Power Shell como administrador<br>
   2.1 Escreva o seguinte comando e aperte enter --> cd moveit-next<br>
-  2.s Escreva o seguinte comando e aperte enter --> code .<br>
+  2.2 Escreva o seguinte comando e aperte enter --> code .<br>
 3.Com o projeto aberto no VsCode abra o terminal e digite --> yarn dev<br>
 4.Abra no navegador o endereço: http://localhost:3000</p>
 
