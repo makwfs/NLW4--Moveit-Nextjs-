@@ -21,6 +21,9 @@ toda vez que o usuário completa as quests.</p>
 <img   src="https://media.giphy.com/media/JxM7WHUlmXvxei2nvq/giphy.gif" >
 
 
+Você pode visualizar o projeto atráves do deste link:<br>
+ https://moveit-snowy-omega.vercel.app/
+
 <h2>⚙️ Tecnologias e ferramentas utilizadas: </h2>
 
 - React
