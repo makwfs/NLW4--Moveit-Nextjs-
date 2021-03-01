@@ -32,7 +32,7 @@ Você pode visualizar o projeto atráves do deste link:<br>
 - Yarn ou Npm
 - Vercel (Deploy)
 
-<h2>🗂️ Pré-requisitos </h2>
+<h2>🗂️ Pré-requisitos: </h2>
 <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
 
 - VsCode
@@ -47,16 +47,15 @@ Você pode visualizar o projeto atráves do deste link:<br>
 3.Com o projeto aberto no VsCode abra o terminal e digite --> yarn dev<br>
 4.Abra no navegador o endereço: http://localhost:3000</p>
 
-<h2>👨 Autor </h2>
+<h2>👨 Autor: </h2>
 <img width="150" height="150" alt="ImgReadme" title="ImgReadme"  src="https://github.com/makwfs.png" >
 
-<p>Por Mak Wercoutter 🖖</p>
-<p></p>
+<p>Por Mak Wercoutter 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/mak-wercoutter-025b401a2/)
+</p>
 
-
-<h2>📝 Licença</h2>
+<h2>📝 Licença:</h2>
 <p> Este projeto está sob a licença do MIT.</p>
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
