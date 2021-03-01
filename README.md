@@ -36,11 +36,11 @@ Você pode visualizar o projeto atráves do deste link: https://moveit-snowy-ome
 - Git
 
 <h2>🗂️ Como testar o projeto ? </h2>
-1. Clone esse repositório
+<p>1. Clone esse repositório
 2. Abra o Power Shell como administrador
   2.1 Escreva o seguinte comando e aperte enter --> cd moveit-next
   2.s Escreva o seguinte comando e aperte enter --> code .
 3.Com o projeto aberto no VsCode abra o terminal e digite --> yarn dev
-4.Abra no navegador o endereço: http://localhost:3000
+4.Abra no navegador o endereço: http://localhost:3000</p>
 
 <h2>😎 Autor </h2>
