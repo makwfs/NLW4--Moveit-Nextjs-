@@ -53,15 +53,9 @@ Você pode visualizar o projeto atráves do deste link:<br>
 <p>Por Mak Wercoutter 🖖</p>
 <p></p>
 
-<img src="https://camo.githubusercontent.com/bee4ad5804b8b53a1ba11661fdec9850f2a035c5cbdae1723f9d38003d255fce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616e616272746f727265732d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616e616272746f727265732f" alt="Emblema Linkedin" data-canonical-src="https://img.shields.io/badge/-anabrtorres-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/anabrtorres/" style="max-width:100%;">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/mak-wercoutter-025b401a2/)
 
 
-https://img.shields.io/badge/<Linkedin>-<Linkedin>-<blue>
 
-[![Linkedin](https://img.shields.io/badge/maintainer-theMaintainer-blue.svg)]
-(https://www.linkedin.com/in/mak-wercoutter-025b401a2/)
-
-
-[![Linkedin](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.linkedin.com/in/mak-wercoutter-025b401a2/)
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
