@@ -53,6 +53,6 @@ Você pode visualizar o projeto atráves do deste link:<br>
 <p>Por Mak Wercoutter 🖖</p>
 <p></p>
 
-![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+!<a heref="https://www.linkedin.com/in/mak-wercoutter-025b401a2/">[Linkedin](https://img.shields.io/badge/maintainer-theMaintainer-blue)</a>
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
