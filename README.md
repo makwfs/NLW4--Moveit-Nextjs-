@@ -18,11 +18,11 @@ toda vez que o usuário completa as quests.</p>
 <h2>👨‍🏫 Demonstração da aplicação</h2>
 //fazer um gif
 
-<img   src="https://media.giphy.com/media/JxM7WHUlmXvxei2nvq/giphy.gif" >
+<img  align="center" src="https://media.giphy.com/media/JxM7WHUlmXvxei2nvq/giphy.gif" >
 
 
-Você pode visualizar o projeto atráves do deste link:<br>
- https://moveit-snowy-omega.vercel.app/
+<p align="center">Você pode visualizar o projeto atráves do deste link:<br>
+ https://moveit-snowy-omega.vercel.app/</p>
 
 <h2>⚙️ Tecnologias e ferramentas utilizadas: </h2>
 
