@@ -49,3 +49,10 @@ Você pode visualizar o projeto atráves do deste link:<br>
 
 <h2>👨 Autor </h2>
 <img width="150" height="150" alt="ImgReadme" title="ImgReadme"  src="https://github.com/makwfs.png" >
+
+<p>Por Mak Wercoutter 🖖</p>
+<p></p>
+
+![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
