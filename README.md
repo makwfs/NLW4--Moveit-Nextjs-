@@ -56,6 +56,5 @@ Você pode visualizar o projeto atráves do deste link:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/mak-wercoutter-025b401a2/)
 
 
-
-
+<h2> Licença</h2>
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
