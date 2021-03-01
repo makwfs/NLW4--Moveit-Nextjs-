@@ -2,11 +2,9 @@
 <p>Projeto desenvolvido em React (Nextjs) durante o evento NWL4</p>
 <h1 align="center">
 <img src="./assets/ImgReadme.png" >
-<img src="./assets/banner.png" >
+<img src="C:\Users\Telemática-PC\moveit-next\assets" >
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
-</h1>
+
 
 
 </h1>
