@@ -1,9 +1,10 @@
 <h1 align="center"> Moveit NLW4 🚀 </h1>
 <p>Projeto desenvolvido em React (Nextjs) durante o evento NWL4</p>
 <h1 align="center">
-<img src="./assets/ImgReadme.png" >
-<img src="C:\Users\Telemática-PC\moveit-next\assets" >
+<img src="https://github.com/makwfs/NLW4--Moveit-Nextjs-/blob/main/assets/ImgReadme.PNG" >
 
+
+![ImgReadme](https://user-images.githubusercontent.com/61856612/109495162-a698fc80-7a6d-11eb-8bce-6b41286df863.PNG)
 
 
 
