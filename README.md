@@ -19,8 +19,8 @@ toda vez que o usuário completa as quests.</p>
 
 <p align="center">
 <img  src="https://media.giphy.com/media/JxM7WHUlmXvxei2nvq/giphy.gif" >
-
-
+</p>
+<p align="center">
 Você pode visualizar o projeto atráves do deste link:<br>
  https://moveit-snowy-omega.vercel.app/</p>
 
