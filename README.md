@@ -47,4 +47,5 @@ Você pode visualizar o projeto atráves do deste link:<br>
 3.Com o projeto aberto no VsCode abra o terminal e digite --> yarn dev<br>
 4.Abra no navegador o endereço: http://localhost:3000</p>
 
-<h2>😎 Autor </h2>
+<h2>👨 Autor </h2>
+<img width="500" height="auto" alt="ImgReadme" title="ImgReadme"  src="https://github.com/makwfs.png" >
