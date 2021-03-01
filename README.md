@@ -48,4 +48,4 @@ Você pode visualizar o projeto atráves do deste link:<br>
 4.Abra no navegador o endereço: http://localhost:3000</p>
 
 <h2>👨 Autor </h2>
-<img width="250" height="250" alt="ImgReadme" title="ImgReadme"  src="https://github.com/makwfs.png" >
+<img width="150" height="150" alt="ImgReadme" title="ImgReadme"  src="https://github.com/makwfs.png" >
