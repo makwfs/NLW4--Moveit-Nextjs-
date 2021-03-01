@@ -19,12 +19,12 @@ toda vez que o usuário completa as quests.</p>
 //fazer um gif
 //https://moveit-snowy-omega.vercel.app/
 
-<h2>⚙️ Tecnologias e ferramentas utilizadas </h2>
+<h2>⚙️ Tecnologias e ferramentas utilizadas: </h2>
 
 - [React]
 - [Node.js]
 - [Next.js]
-- [Vercel]
+- Vercel
 
 <h2>🗂️ Pré-requisitos </h2>
 <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
