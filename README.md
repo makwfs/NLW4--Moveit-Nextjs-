@@ -1,7 +1,7 @@
 <h1 align="center"> Moveit NLW4 🚀 </h1>
 <p>Projeto desenvolvido em React (Nextjs) durante o evento NWL4</p>
 <h1 align="center">
-<img width="500" height="auto" alt="ImgReadme" title="ImgReadme"  src="./assets/ImgReadme.png"style="max-width:100%;">
+<img width="500" height="auto" alt="ImgReadme" title="ImgReadme"  src="assets/ImgReadme.png" >
 
 
 </h1>
